@@ -25,9 +25,13 @@ print('Half of my age is ' .. age / 2)
 -- <--[[> is for multi line comment
 -- <---[[> adding one on the opening tag will run the code
 ---[[
-  print 'hello' -- this code will run
-  print 'hello'
-  print 'hello'
-  print 'hello'
+print 'hello' -- this code will run
+print 'hello'
+print 'hello'
+print 'hello'
 -- ]]
+
+-- Global Variables
+-- variables that has no scope
+-- can be use any block on the file
 
