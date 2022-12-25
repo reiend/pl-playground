@@ -35,3 +35,13 @@ print 'hello'
 -- variables that has no scope
 -- can be use any block on the file
 
+-- Terms and Values
+-- 8 Basic Types
+-- nil
+-- Boolean
+-- number
+-- string
+-- userdata
+-- function
+-- thread
+-- table
