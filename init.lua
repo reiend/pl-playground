@@ -7,14 +7,13 @@ print(num1 + num2)
 
 
 -- @params n - number, any number
-function is_even (n) 
+function is_even(n)
 	if n % 2 == 0 then
 		return true
 	end
 
 	return false
 end
-
 
 print(is_even(num1 + num2))
 print(is_even(num1))
