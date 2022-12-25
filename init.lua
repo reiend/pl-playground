@@ -1,2 +1,1 @@
-require "src.variables"
-
+require "src.chapter-1-getting-started"
