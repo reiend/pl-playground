@@ -45,3 +45,13 @@ print 'hello'
 -- function
 -- thread
 -- table
+
+-- Nil
+-- specified no value
+
+-- Boolean
+-- true and false
+-- false and nil are falsy, anything else is truthy
+-- logical operators and, or and not - short circuit
+
+
