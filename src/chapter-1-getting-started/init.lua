@@ -1,5 +1,3 @@
-print 'hello world'
-
 -- Chunk
 -- each piece of lua code that get executed are called chunks
 -- sequence of commands
@@ -54,4 +52,13 @@ print 'hello'
 -- false and nil are falsy, anything else is truthy
 -- logical operators and, or and not - short circuit
 
+-- Lua Standalone Interpreter
+-- lua -i - enters interactive mode after running the program
+-- lua -e - run lua code directly
+-- lua -options -scripts -args
 
+-- Exercices
+require 'src.chapter-1-getting-started.exercise-1-1'
+-- require 'src.chapter-1-getting-started.exercise-1-2'
+-- require 'src.chapter-1-getting-started.exercise-1-3'
+-- require 'src.chapter-1-getting-started.exercise-1-4'
