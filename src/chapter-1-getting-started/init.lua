@@ -58,10 +58,11 @@ print 'hello'
 -- lua -options -scripts -args
 
 -- Exercices
-require 'src.chapter-1-getting-started.exercise-1-1'
-require 'src.chapter-1-getting-started.exercise-1-2'
-require 'src.chapter-1-getting-started.exercise-1-3'
-require 'src.chapter-1-getting-started.exercise-1-4'
-require 'src.chapter-1-getting-started.exercise-1-5'
-require 'src.chapter-1-getting-started.exercise-1-6'
-require 'src.chapter-1-getting-started.exercise-1-7'
+-- require 'src.chapter-1-getting-started.exercise-1-1'
+-- require 'src.chapter-1-getting-started.exercise-1-2'
+-- require 'src.chapter-1-getting-started.exercise-1-3'
+-- require 'src.chapter-1-getting-started.exercise-1-4'
+-- require 'src.chapter-1-getting-started.exercise-1-5'
+-- require 'src.chapter-1-getting-started.exercise-1-6'
+-- require 'src.chapter-1-getting-started.exercise-1-7'
+require 'src.chapter-1-getting-started.exercise-1-8'
