@@ -12,7 +12,9 @@
 
 # production
 /build
-dist
+/dist
+/dist-swc
+/dist-spack
 
 # debug
 npm-debug.log*

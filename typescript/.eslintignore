@@ -3,6 +3,6 @@ node_modules
 .prettierignore
 dist
 .eslintignore
-gulpfile.js
+spack.config.js
 package.json
 package-lock.json
