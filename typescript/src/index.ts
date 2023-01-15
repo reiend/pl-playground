@@ -1,3 +1,5 @@
-import { hello } from "./hello";
+import { clear } from "console";
+import basics from "./basics";
 
-console.log(`${hello}`);
+clear();
+basics();
