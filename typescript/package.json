@@ -8,7 +8,7 @@
     "start:swc": "node -r @swc-node/register dist-swc/index.js",
     "start:spack": "node -r @swc-node/register dist-spack/index.js",
     "start": "node -r @swc-node/register src/index.ts",
-    "dev": "ts-node-dev --respawn --transpile-only --exit-child --watch src src"
+    "dev": "ts-node-dev --respawn --exit-child --watch src src"
   },
   "keywords": [],
   "author": "",

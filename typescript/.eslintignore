@@ -4,5 +4,7 @@ node_modules
 dist
 .eslintignore
 spack.config.js
+dist-swc
+dist-spack
 package.json
 package-lock.json
