@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:spack": "spack",
     "build:swc": "swc src --out-dir dist-swc --copy-files",
     "start:swc": "node -r @swc-node/register dist-swc/index.js",
-    "start:spack": "node -r @swc-node/register dist-spack/index.js",
     "start": "node -r @swc-node/register src/index.ts",
     "dev": "ts-node-dev --respawn --exit-child --watch src src"
   },
