@@ -1,6 +1,7 @@
 import { clear } from "console";
 import handbook from "./handbook";
 
-// clear();
+clear();
 // handbook.basics();
-handbook.everydayTypes();
+// handbook.everydayTypes();
+handbook.narrowing();

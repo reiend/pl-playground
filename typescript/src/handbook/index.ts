@@ -1,15 +1,20 @@
 import basics from "./basics";
 import everydayTypes from "./everydayTypes";
+import narrowing from "./narrowing";
+
+type TGetNothing = () => void;
 
 interface IHandbookReturn {
-  basics: () => void;
-  everydayTypes: () => void;
+  basics: TGetNothing;
+  everydayTypes: TGetNothing;
+  narrowing: TGetNothing;
 }
 
 const handbook = (): IHandbookReturn => {
   return {
     basics,
-    everydayTypes
+    everydayTypes,
+    narrowing
   };
 };
 
