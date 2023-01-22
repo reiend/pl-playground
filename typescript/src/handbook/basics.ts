@@ -1,4 +1,4 @@
-import { separation } from "./utils";
+import { separation } from "../utils";
 
 const basics = (): void => {
   const { log } = console;
