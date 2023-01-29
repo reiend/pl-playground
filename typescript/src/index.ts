@@ -4,4 +4,5 @@ import handbook from "./handbook";
 clear();
 // handbook.basics();
 // handbook.everydayTypes();
-handbook.narrowing();
+// handbook.narrowing();
+handbook.moreOnFunctions();
